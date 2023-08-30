@@ -3,7 +3,9 @@
 </h2>
 <p align="center">
   Este projeto destina-se ao envio em massa de mensagens pelo WhatsApp.<br>
-  Funciona por meio de arquivos CSV, onde você adiciona o nome e o número de telefone das pessoas.<br>
+  Funciona por meio de arquivos CSV, onde você adiciona o nome e o número de<br>
+  telefone das pessoas. E também tem 2 arquivos de Logs para salvar para quem enviou<br>
+  "success.txt" e para quem ele não conseguiu enviar "errors.txt"<br>
   Ao executar o projeto, leia o QR code no console e aguarde a magia acontecer :)
 </p>
   
